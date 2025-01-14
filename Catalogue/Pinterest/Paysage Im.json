@@ -1,0 +1,105 @@
+{
+    "name": "Paysage Im",
+    "folder": "Pinterest",
+    "dateRange": [
+        "2024-01-13T17:17:08",
+        "2024-01-13T17:22:12"
+    ],
+    "nVideo": 0,
+    "nImages": 8,
+    "mainImage": {
+        "name": "IMG_0421.JPG",
+        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0421.JPG"
+    },
+    "album_path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im",
+    "medias": [
+        {
+            "name": "IMG_0431.JPG",
+            "date": "2024-01-13T17:22:12",
+            "album": "Paysage Im",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im\\IMG_0431.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0431.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0430.JPG",
+            "date": "2024-01-13T17:22:06",
+            "album": "Paysage Im",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im\\IMG_0430.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0430.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0429.JPG",
+            "date": "2024-01-13T17:22:00",
+            "album": "Paysage Im",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im\\IMG_0429.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0429.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0428.JPG",
+            "date": "2024-01-13T17:21:54",
+            "album": "Paysage Im",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im\\IMG_0428.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0428.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0427.JPG",
+            "date": "2024-01-13T17:20:28",
+            "album": "Paysage Im",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im\\IMG_0427.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0427.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0426.JPG",
+            "date": "2024-01-13T17:20:20",
+            "album": "Paysage Im",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im\\IMG_0426.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0426.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0422.JPG",
+            "date": "2024-01-13T17:17:12",
+            "album": "Paysage Im",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im\\IMG_0422.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0422.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0421.JPG",
+            "date": "2024-01-13T17:17:08",
+            "album": "Paysage Im",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im\\IMG_0421.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0421.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+:root {
+    --main-bg: rgb(38, 38, 38);
+    --main-color: white;
+    --secondary-bg: rgb(55, 57, 58);
+    --container-bg: #262626;
+    --highlight-color: #e50914;
+    --call-to-action: aqua;
+    --new-condition: green;
+    --used-condition: yellow;
+  }
+
+body::-webkit-scrollbar {
+    width: 13px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: var(--container-bg);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: var(--secondary-bg);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid var(--container-bg);  /* creates padding around scroll thumb */
+  }

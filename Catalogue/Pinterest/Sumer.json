@@ -1,0 +1,105 @@
+{
+    "name": "Sumer",
+    "folder": "Pinterest",
+    "dateRange": [
+        "2024-01-14T00:16:58",
+        "2024-07-14T12:17:44"
+    ],
+    "nVideo": 0,
+    "nImages": 8,
+    "mainImage": {
+        "name": "IMG_0457.JPG",
+        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0457.JPG"
+    },
+    "album_path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer",
+    "medias": [
+        {
+            "name": "IMG_2472.JPG",
+            "date": "2024-07-14T12:17:44",
+            "album": "Sumer",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer\\IMG_2472.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_2472.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0463.JPG",
+            "date": "2024-01-14T00:17:34",
+            "album": "Sumer",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer\\IMG_0463.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0463.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0462.JPG",
+            "date": "2024-01-14T00:17:20",
+            "album": "Sumer",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer\\IMG_0462.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0462.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0461.JPG",
+            "date": "2024-01-14T00:17:16",
+            "album": "Sumer",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer\\IMG_0461.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0461.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0460.JPG",
+            "date": "2024-01-14T00:17:12",
+            "album": "Sumer",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer\\IMG_0460.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0460.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0459.jpg",
+            "date": "2024-01-14T00:17:06",
+            "album": "Sumer",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer\\IMG_0459.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0459.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0458.JPG",
+            "date": "2024-01-14T00:17:02",
+            "album": "Sumer",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer\\IMG_0458.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0458.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0457.JPG",
+            "date": "2024-01-14T00:16:58",
+            "album": "Sumer",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer\\IMG_0457.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0457.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MnemoPhoto</title>
+    <link rel="icon" href="../logo.ico" type="image/x-icon" />
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+      integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="../style/shearch_bar.css" />
+    <link rel="stylesheet" href="../style/browser.css" />
+
+    <script type="module" src="../script/browserPageScript.js" defer></script>
+  </head>
+  <body>
+    <header id="header">
+      <img id="header-img" alt="Header Image" loading="lazy" />
+      <div id="header-description">
+        <p class="header-description" id="header-album-name">My Album</p>
+      </div>
+
+      <!-- Search Form -->
+      <form action="" id="search-form">
+        <input type="search" id="search-input" required />
+        <i class="fa fa-search" id="search-icon"></i>
+      </form>
+    </header>
+
+    <main>
+      <button id="left-button" class="media-button">
+        <div class="arrow_left-icon"></div>
+      </button>
+      <div id="main-content"></div>
+      <button id="right-button" class="media-button">
+        <div class="arrow_right-icon"></div>
+      </button>
+    </main>
+
+    <footer id="browser-footer"></footer>
+
+    <div id="media-previewer">
+      <div id="media-previewer-carousel"></div>
+    </div>
+
+    <!-- <div
+      style="
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 5px;
+        background-color: black;
+        pointer-events: none;
+      "
+    ></div> -->
+  </body>
+</html>

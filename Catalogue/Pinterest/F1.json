@@ -1,0 +1,160 @@
+{
+    "name": "F1",
+    "folder": "Pinterest",
+    "dateRange": [
+        "2024-01-13T17:31:10",
+        "2024-08-11T14:37:02"
+    ],
+    "nVideo": 0,
+    "nImages": 13,
+    "mainImage": {
+        "name": "IMG_0432.JPG",
+        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0432.JPG"
+    },
+    "album_path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1",
+    "medias": [
+        {
+            "name": "IMG_3175.jpg",
+            "date": "2024-08-11T14:37:02",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_3175.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_3175.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_3174.JPG",
+            "date": "2024-08-11T14:20:26",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_3174.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_3174.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_2463.jpg",
+            "date": "2024-07-09T12:37:50",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_2463.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_2463.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_2462.jpg",
+            "date": "2024-07-09T12:37:44",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_2462.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_2462.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0442.JPG",
+            "date": "2024-01-13T17:31:54",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0442.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0442.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0441.JPG",
+            "date": "2024-01-13T17:31:50",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0441.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0441.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0440.jpg",
+            "date": "2024-01-13T17:31:46",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0440.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0440.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0439.JPG",
+            "date": "2024-01-13T17:31:42",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0439.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0439.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0438.JPG",
+            "date": "2024-01-13T17:31:36",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0438.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0438.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0437.jpg",
+            "date": "2024-01-13T17:31:32",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0437.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0437.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0434.JPG",
+            "date": "2024-01-13T17:31:20",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0434.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0434.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0433.JPG",
+            "date": "2024-01-13T17:31:14",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0433.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0433.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0432.JPG",
+            "date": "2024-01-13T17:31:10",
+            "album": "F1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1\\IMG_0432.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0432.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        }
+    ]
+}

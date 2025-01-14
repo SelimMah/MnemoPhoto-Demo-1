@@ -1,0 +1,174 @@
+:root {
+  --main-bg: rgb(38, 38, 38);
+  --main-color: white;
+  --secondary-bg: rgb(55, 57, 58);
+  --third-bg: #7a7a7a;
+  --highlight-color: #e50914;
+  --call-to-action: aqua;
+  --new-condition: green;
+  --used-condition: yellow;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.material-symbols-rounded {
+  font-variation-settings: "FILL" 0, "wght" 700, "GRAD" 200, "opsz" 24;
+  position: absolute;
+  bottom: 10px;
+  right: 15px;
+  color: var(--main-color);
+  padding: 6px;
+  border-radius: 100px;
+  transition: background-color 200ms;
+  cursor: pointer;
+}
+
+.material-symbols-rounded:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.material-symbols-rounded:active {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+body {
+  background-color: var(--main-bg);
+}
+
+/* Main Content Section */
+main {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.thumbnail-album {
+  width: 80%;
+  max-width: 800px;
+  height: 35vh;
+  margin: 30px auto 0;
+  border-radius: 30px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+  background: rgba(255, 255, 255, 0.21);
+}
+
+.thumbnail-album:hover {
+  transform: scale(1.03);
+}
+
+.thumbnail-album-img {
+  position: absolute;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.thumbnail-description {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: var(--main-color);
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  z-index: 12;
+  background-color: rgba(55, 57, 58, 0);
+  padding: 5px 20px 5px 10px;
+  border-radius: 10px;
+  width: 30%;
+}
+
+.thumbnail-name {
+  font-weight: 900;
+  font-size: 60%;
+}
+
+.thumbnail-date {
+  font-weight: 300;
+  font-size: 40%;
+}
+
+/* Footer (Summary) Section */
+#home-element-count {
+  color: var(--main-color);
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  margin: 35px;
+  text-align: center;
+}
+
+/* Album with Small Thumbnails */
+.thumbnail-folder {
+  width: 80%;
+  max-width: 800px;
+  height: 34vh;
+  margin: 35px auto 0;
+  border-radius: 30px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.thumbnail-folder:hover {
+  transform: scale(1.03); /* Agrandit tout le div */
+}
+
+.thumbnail-folder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.thumbnail-folder-img-1 {
+  position: absolute;
+  border-radius: 30px;
+  top: 24px;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  overflow: hidden;
+}
+
+.thumbnail-folder-img-2 {
+  position: absolute;
+  border-radius: 30px;
+  left: 50%;
+  top: 12px;
+  transform: translateX(-50%);
+  width: 98%;
+  height: 100%;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.thumbnail-folder-img-3 {
+  position: absolute;
+  border-radius: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 93%;
+  height: 100%;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+  color: var(--main-color);
+  opacity: 0.5;
+  position: absolute;
+  font-size: 40px;
+  right: 20px;
+  bottom: 20px;
+  z-index: 2;
+}

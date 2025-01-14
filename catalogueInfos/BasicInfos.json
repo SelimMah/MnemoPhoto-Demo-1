@@ -1,0 +1,488 @@
+{
+    "catalogueInfo": {
+        "name": "DemoGalery",
+        "catalogue_path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery",
+        "dateRange": [
+            "9999-12-31T23:59:59.999999",
+            "0001-01-01T00:00:00"
+        ],
+        "nVideo": 5,
+        "nImages": 160,
+        "nAlbums": 3,
+        "nFolder": 1,
+        "catalogues": [
+            {
+                "name": "Album1",
+                "type": "album",
+                "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-sanat-anghan-25736600-28435500.jpg&quality=20",
+                "nImages": 12,
+                "nVideos": 5,
+                "dateRange": [
+                    "2025-01-14T17:16:24.529521",
+                    "2025-01-14T17:21:51.597720"
+                ],
+                "json_file": "Catalogue/Album1.json",
+                "folder": null,
+                "index": 0
+            },
+            {
+                "name": "Album2",
+                "type": "album",
+                "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7936.jpg&quality=20",
+                "nImages": 40,
+                "nVideos": 0,
+                "dateRange": [
+                    "2023-05-08T16:54:46",
+                    "2023-05-08T19:51:22"
+                ],
+                "json_file": "Catalogue/Album2.json",
+                "folder": null,
+                "index": 1
+            },
+            {
+                "name": "Pinterest",
+                "type": "folder",
+                "mainImagesURL": [
+                    {
+                        "album": "Space",
+                        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Space&filename=IMG_0473.JPG"
+                    },
+                    {
+                        "album": "F1",
+                        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0432.JPG"
+                    },
+                    {
+                        "album": "Sumer",
+                        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0457.JPG"
+                    },
+                    {
+                        "album": "Lofi",
+                        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0416.JPG"
+                    },
+                    {
+                        "album": "Giant",
+                        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Giant&filename=IMG_0479.JPG"
+                    },
+                    {
+                        "album": "Japan",
+                        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Japan&filename=IMG_0464.JPG"
+                    },
+                    {
+                        "album": "Paysage Im",
+                        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0421.JPG"
+                    }
+                ],
+                "nAlbums": 7,
+                "nImages": 58,
+                "nVideos": 0,
+                "dateRange": [
+                    "2024-01-13T17:17:08",
+                    "2024-09-19T23:48:02"
+                ],
+                "json_folder": "Catalogue/Pinterest",
+                "albums": [
+                    {
+                        "name": "Space",
+                        "type": "album",
+                        "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Space&filename=IMG_0473.JPG",
+                        "nImages": 6,
+                        "nVideos": 0,
+                        "dateRange": [
+                            "2024-09-19T23:47:58",
+                            "2024-09-19T23:48:02"
+                        ],
+                        "json_file": "Catalogue/Pinterest/Space.json",
+                        "folder": "Pinterest",
+                        "index": 0
+                    },
+                    {
+                        "name": "F1",
+                        "type": "album",
+                        "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0432.JPG",
+                        "nImages": 13,
+                        "nVideos": 0,
+                        "dateRange": [
+                            "2024-01-13T17:31:10",
+                            "2024-08-11T14:37:02"
+                        ],
+                        "json_file": "Catalogue/Pinterest/F1.json",
+                        "folder": "Pinterest",
+                        "index": 0
+                    },
+                    {
+                        "name": "Sumer",
+                        "type": "album",
+                        "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0457.JPG",
+                        "nImages": 8,
+                        "nVideos": 0,
+                        "dateRange": [
+                            "2024-01-14T00:16:58",
+                            "2024-07-14T12:17:44"
+                        ],
+                        "json_file": "Catalogue/Pinterest/Sumer.json",
+                        "folder": "Pinterest",
+                        "index": 0
+                    },
+                    {
+                        "name": "Lofi",
+                        "type": "album",
+                        "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0416.JPG",
+                        "nImages": 10,
+                        "nVideos": 0,
+                        "dateRange": [
+                            "2024-01-13T17:13:28",
+                            "2024-07-09T12:35:06"
+                        ],
+                        "json_file": "Catalogue/Pinterest/Lofi.json",
+                        "folder": "Pinterest",
+                        "index": 0
+                    },
+                    {
+                        "name": "Giant",
+                        "type": "album",
+                        "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Giant&filename=IMG_0479.JPG",
+                        "nImages": 7,
+                        "nVideos": 0,
+                        "dateRange": [
+                            "2024-01-14T00:30:36",
+                            "2024-01-14T00:34:02"
+                        ],
+                        "json_file": "Catalogue/Pinterest/Giant.json",
+                        "folder": "Pinterest",
+                        "index": 0
+                    },
+                    {
+                        "name": "Japan",
+                        "type": "album",
+                        "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Japan&filename=IMG_0464.JPG",
+                        "nImages": 6,
+                        "nVideos": 0,
+                        "dateRange": [
+                            "2024-01-14T00:19:34",
+                            "2024-01-14T00:19:58"
+                        ],
+                        "json_file": "Catalogue/Pinterest/Japan.json",
+                        "folder": "Pinterest",
+                        "index": 0
+                    },
+                    {
+                        "name": "Paysage Im",
+                        "type": "album",
+                        "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0421.JPG",
+                        "nImages": 8,
+                        "nVideos": 0,
+                        "dateRange": [
+                            "2024-01-13T17:17:08",
+                            "2024-01-13T17:22:12"
+                        ],
+                        "json_file": "Catalogue/Pinterest/Paysage Im.json",
+                        "folder": "Pinterest",
+                        "index": 0
+                    }
+                ],
+                "index": 2
+            },
+            {
+                "name": "Wallpaper",
+                "type": "album",
+                "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Wallpaper&filename=IMG_3587.jpeg&quality=20",
+                "nImages": 50,
+                "nVideos": 0,
+                "dateRange": [
+                    "2020-02-23T11:40:16",
+                    "2024-09-19T11:20:34"
+                ],
+                "json_file": "Catalogue/Wallpaper.json",
+                "folder": null,
+                "index": 3
+            }
+        ]
+    },
+    "folders": [
+        {
+            "name": "Pinterest",
+            "type": "folder",
+            "mainImagesURL": [
+                {
+                    "album": "Space",
+                    "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Space&filename=IMG_0473.JPG"
+                },
+                {
+                    "album": "F1",
+                    "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0432.JPG"
+                },
+                {
+                    "album": "Sumer",
+                    "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0457.JPG"
+                },
+                {
+                    "album": "Lofi",
+                    "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0416.JPG"
+                },
+                {
+                    "album": "Giant",
+                    "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Giant&filename=IMG_0479.JPG"
+                },
+                {
+                    "album": "Japan",
+                    "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Japan&filename=IMG_0464.JPG"
+                },
+                {
+                    "album": "Paysage Im",
+                    "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0421.JPG"
+                }
+            ],
+            "nAlbums": 7,
+            "nImages": 58,
+            "nVideos": 0,
+            "dateRange": [
+                "2024-01-13T17:17:08",
+                "2024-09-19T23:48:02"
+            ],
+            "json_folder": "Catalogue/Pinterest",
+            "albums": [
+                {
+                    "name": "Space",
+                    "type": "album",
+                    "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Space&filename=IMG_0473.JPG",
+                    "nImages": 6,
+                    "nVideos": 0,
+                    "dateRange": [
+                        "2024-09-19T23:47:58",
+                        "2024-09-19T23:48:02"
+                    ],
+                    "json_file": "Catalogue/Pinterest/Space.json",
+                    "folder": "Pinterest",
+                    "index": 0
+                },
+                {
+                    "name": "F1",
+                    "type": "album",
+                    "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0432.JPG",
+                    "nImages": 13,
+                    "nVideos": 0,
+                    "dateRange": [
+                        "2024-01-13T17:31:10",
+                        "2024-08-11T14:37:02"
+                    ],
+                    "json_file": "Catalogue/Pinterest/F1.json",
+                    "folder": "Pinterest",
+                    "index": 0
+                },
+                {
+                    "name": "Sumer",
+                    "type": "album",
+                    "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0457.JPG",
+                    "nImages": 8,
+                    "nVideos": 0,
+                    "dateRange": [
+                        "2024-01-14T00:16:58",
+                        "2024-07-14T12:17:44"
+                    ],
+                    "json_file": "Catalogue/Pinterest/Sumer.json",
+                    "folder": "Pinterest",
+                    "index": 0
+                },
+                {
+                    "name": "Lofi",
+                    "type": "album",
+                    "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0416.JPG",
+                    "nImages": 10,
+                    "nVideos": 0,
+                    "dateRange": [
+                        "2024-01-13T17:13:28",
+                        "2024-07-09T12:35:06"
+                    ],
+                    "json_file": "Catalogue/Pinterest/Lofi.json",
+                    "folder": "Pinterest",
+                    "index": 0
+                },
+                {
+                    "name": "Giant",
+                    "type": "album",
+                    "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Giant&filename=IMG_0479.JPG",
+                    "nImages": 7,
+                    "nVideos": 0,
+                    "dateRange": [
+                        "2024-01-14T00:30:36",
+                        "2024-01-14T00:34:02"
+                    ],
+                    "json_file": "Catalogue/Pinterest/Giant.json",
+                    "folder": "Pinterest",
+                    "index": 0
+                },
+                {
+                    "name": "Japan",
+                    "type": "album",
+                    "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Japan&filename=IMG_0464.JPG",
+                    "nImages": 6,
+                    "nVideos": 0,
+                    "dateRange": [
+                        "2024-01-14T00:19:34",
+                        "2024-01-14T00:19:58"
+                    ],
+                    "json_file": "Catalogue/Pinterest/Japan.json",
+                    "folder": "Pinterest",
+                    "index": 0
+                },
+                {
+                    "name": "Paysage Im",
+                    "type": "album",
+                    "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0421.JPG",
+                    "nImages": 8,
+                    "nVideos": 0,
+                    "dateRange": [
+                        "2024-01-13T17:17:08",
+                        "2024-01-13T17:22:12"
+                    ],
+                    "json_file": "Catalogue/Pinterest/Paysage Im.json",
+                    "folder": "Pinterest",
+                    "index": 0
+                }
+            ],
+            "index": 2
+        }
+    ],
+    "albums": [
+        {
+            "name": "Album1",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-sanat-anghan-25736600-28435500.jpg&quality=20",
+            "nImages": 12,
+            "nVideos": 5,
+            "dateRange": [
+                "2025-01-14T17:16:24.529521",
+                "2025-01-14T17:21:51.597720"
+            ],
+            "json_file": "Catalogue/Album1.json",
+            "folder": null,
+            "index": 0
+        },
+        {
+            "name": "Album2",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7936.jpg&quality=20",
+            "nImages": 40,
+            "nVideos": 0,
+            "dateRange": [
+                "2023-05-08T16:54:46",
+                "2023-05-08T19:51:22"
+            ],
+            "json_file": "Catalogue/Album2.json",
+            "folder": null,
+            "index": 1
+        },
+        {
+            "name": "Space",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Space&filename=IMG_0473.JPG",
+            "nImages": 6,
+            "nVideos": 0,
+            "dateRange": [
+                "2024-09-19T23:47:58",
+                "2024-09-19T23:48:02"
+            ],
+            "json_file": "Catalogue/Pinterest/Space.json",
+            "folder": "Pinterest",
+            "index": 0
+        },
+        {
+            "name": "F1",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\F1&filename=IMG_0432.JPG",
+            "nImages": 13,
+            "nVideos": 0,
+            "dateRange": [
+                "2024-01-13T17:31:10",
+                "2024-08-11T14:37:02"
+            ],
+            "json_file": "Catalogue/Pinterest/F1.json",
+            "folder": "Pinterest",
+            "index": 0
+        },
+        {
+            "name": "Sumer",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Sumer&filename=IMG_0457.JPG",
+            "nImages": 8,
+            "nVideos": 0,
+            "dateRange": [
+                "2024-01-14T00:16:58",
+                "2024-07-14T12:17:44"
+            ],
+            "json_file": "Catalogue/Pinterest/Sumer.json",
+            "folder": "Pinterest",
+            "index": 0
+        },
+        {
+            "name": "Lofi",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0416.JPG",
+            "nImages": 10,
+            "nVideos": 0,
+            "dateRange": [
+                "2024-01-13T17:13:28",
+                "2024-07-09T12:35:06"
+            ],
+            "json_file": "Catalogue/Pinterest/Lofi.json",
+            "folder": "Pinterest",
+            "index": 0
+        },
+        {
+            "name": "Giant",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Giant&filename=IMG_0479.JPG",
+            "nImages": 7,
+            "nVideos": 0,
+            "dateRange": [
+                "2024-01-14T00:30:36",
+                "2024-01-14T00:34:02"
+            ],
+            "json_file": "Catalogue/Pinterest/Giant.json",
+            "folder": "Pinterest",
+            "index": 0
+        },
+        {
+            "name": "Japan",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Japan&filename=IMG_0464.JPG",
+            "nImages": 6,
+            "nVideos": 0,
+            "dateRange": [
+                "2024-01-14T00:19:34",
+                "2024-01-14T00:19:58"
+            ],
+            "json_file": "Catalogue/Pinterest/Japan.json",
+            "folder": "Pinterest",
+            "index": 0
+        },
+        {
+            "name": "Paysage Im",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Paysage Im&filename=IMG_0421.JPG",
+            "nImages": 8,
+            "nVideos": 0,
+            "dateRange": [
+                "2024-01-13T17:17:08",
+                "2024-01-13T17:22:12"
+            ],
+            "json_file": "Catalogue/Pinterest/Paysage Im.json",
+            "folder": "Pinterest",
+            "index": 0
+        },
+        {
+            "name": "Wallpaper",
+            "type": "album",
+            "mainImageURL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Wallpaper&filename=IMG_3587.jpeg&quality=20",
+            "nImages": 50,
+            "nVideos": 0,
+            "dateRange": [
+                "2020-02-23T11:40:16",
+                "2024-09-19T11:20:34"
+            ],
+            "json_file": "Catalogue/Wallpaper.json",
+            "folder": null,
+            "index": 3
+        }
+    ]
+}

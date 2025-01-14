@@ -1,0 +1,127 @@
+{
+    "name": "Lofi",
+    "folder": "Pinterest",
+    "dateRange": [
+        "2024-01-13T17:13:28",
+        "2024-07-09T12:35:06"
+    ],
+    "nVideo": 0,
+    "nImages": 10,
+    "mainImage": {
+        "name": "IMG_0416.JPG",
+        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0416.JPG"
+    },
+    "album_path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi",
+    "medias": [
+        {
+            "name": "IMG_2461.JPG",
+            "date": "2024-07-09T12:35:06",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_2461.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_2461.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_2460.JPG",
+            "date": "2024-07-09T12:34:58",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_2460.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_2460.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_2071.JPG",
+            "date": "2024-05-31T12:29:24",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_2071.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_2071.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0472.jpg",
+            "date": "2024-01-14T00:28:16",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_0472.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0472.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0423.jpg",
+            "date": "2024-01-13T17:17:18",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_0423.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0423.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0420.JPG",
+            "date": "2024-01-13T17:14:26",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_0420.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0420.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0419.JPG",
+            "date": "2024-01-13T17:14:18",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_0419.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0419.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0418.JPG",
+            "date": "2024-01-13T17:14:10",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_0418.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0418.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0417.JPG",
+            "date": "2024-01-13T17:13:58",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_0417.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0417.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "IMG_0416.JPG",
+            "date": "2024-01-13T17:13:28",
+            "album": "Lofi",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi\\IMG_0416.JPG",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Pinterest\\Lofi&filename=IMG_0416.JPG",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        }
+    ]
+}

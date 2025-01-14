@@ -1,0 +1,343 @@
+:root {
+  --main-bg: rgb(38, 38, 38);
+  --main-color: white;
+  --secondary-bg: rgb(55, 57, 58);
+  --container-bg: #262626;
+  --glassmorphism-color: rgba(63, 63, 63, 0.44);
+
+  --font-family: "montserrat";
+  --container-width: 350px;
+  --border-radius: 35px;
+  --element-count: 2;
+  --background: #1355f6;
+}
+
+#footer {
+  display: flex;
+  justify-content: space-between; /* Centrer les éléments dans le footer */
+  align-items: center;
+  width: 100vw;
+  height: 80px;
+  max-width: 475px;
+  background-color: rgba(255, 105, 105, 0); /* Si vous souhaitez voir le fond */
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0px 0px;
+  z-index: 100;
+}
+
+.selector-border {
+  height: 46px;
+  background-color: var(--glassmorphism-color);
+  backdrop-filter: blur(10.6px);
+  -webkit-backdrop-filter: blur(10.6px);
+  display: flex;
+  padding: 0px 4px;
+  border-radius: 38px;
+}
+
+/* From Uiverse.io by Admin12121 */
+.selector {
+  --radius: 38px;
+  --border: 4px;
+  --height: 35px;
+  --speed: 0.75s;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, system-ui;
+}
+
+.tabs {
+  height: var(--height);
+  display: grid;
+  grid-auto-flow: column;
+  background-color: rgba(0, 0, 0, 0);
+  grid-auto-columns: 1fr;
+  position: relative;
+  padding: 5px;
+  border-radius: var(--radius);
+  /*border: var(--border) solid rgba(0, 0, 0, 0.44);*/
+}
+
+.tabs {
+  --ease: linear(
+    0,
+    0.1641 3.52%,
+    0.311 7.18%,
+    0.4413 10.99%,
+    0.5553 14.96%,
+    0.6539 19.12%,
+    0.738 23.5%,
+    0.8086 28.15%,
+    0.8662 33.12%,
+    0.9078 37.92%,
+    0.9405 43.12%,
+    0.965 48.84%,
+    0.9821 55.28%,
+    0.992 61.97%,
+    0.9976 70.09%,
+    1
+  );
+}
+
+.tabs > .input,
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.tabs:has(:checked:nth-of-type(1)) {
+  --active: 0;
+}
+.tabs:has(:checked:nth-of-type(2)) {
+  --active: 1;
+}
+.tabs:has(:checked:nth-of-type(3)) {
+  --active: 2;
+}
+.tabs:has(:checked:nth-of-type(4)) {
+  --active: 3;
+}
+
+.tabs :checked + .label {
+  --highlight: 1;
+}
+
+.tabs:has(.input:nth-of-type(2)) {
+  --count: 2;
+}
+.tabs:has(.input:nth-of-type(3)) {
+  --count: 3;
+}
+.tabs:has(.input:nth-of-type(4)) {
+  --count: 4;
+}
+
+.tabs .label {
+  padding: 0 clamp(10px, 10px + 10px, 20px);
+  cursor: pointer;
+  text-align: center;
+  height: 100%;
+  display: grid;
+  border-radius: calc(var(--radius) - var(--border));
+  place-items: center;
+  color: white;
+  transition: background, color;
+  transition-duration: 0.25s;
+  transition-timing-function: var(--ease, ease);
+}
+
+.input:not(:checked) + .label:hover {
+  --highlight: 0.35;
+  background: rgba(255, 255, 5255, 0.1);
+}
+
+.tabs::after {
+  pointer-events: none;
+  content: "";
+  width: calc(100% / var(--count));
+  height: 100%;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  border-radius: calc(var(--radius) - var(--border));
+  mix-blend-mode: difference;
+  translate: calc(var(--active, 0) * 100%) 0;
+  transition: translate, outline-color;
+  transition-duration: var(--speed);
+  transition-timing-function: var(--ease, ease);
+  outline: 2px solid transparent;
+}
+
+.tabs:has(:focus-visible)::after {
+  outline-color: red;
+}
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+  font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, system-ui;
+}
+
+.dropdown-btn {
+  border: none;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  background-color: var(--glassmorphism-color);
+  backdrop-filter: blur(10.6px);
+  -webkit-backdrop-filter: blur(10.6px);
+  color: white;
+}
+
+.dropdown-btn:hover {
+  background-color: rgba(255, 255, 255);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  color: black;
+}
+
+.dropdown-options {
+  display: block;
+  position: absolute;
+  overflow: hidden;
+  background-color: var(--glassmorphism-color);
+  backdrop-filter: blur(10.6px);
+  -webkit-backdrop-filter: blur(10.6px);
+  border-radius: 5px;
+  bottom: 130%;
+  width: 300px;
+  transform-origin: bottom left; /* Set the origin for the scaling */
+  transform: scale(0); /* Start hidden (scale to 0) */
+  transition: transform 0.35s ease-in-out; /* Smooth transition */
+}
+
+.dropdown:hover .dropdown-options {
+  transform: scale(1); /* Scale to full size on hover */
+}
+
+.dropdown-options a {
+  display: block;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  padding: 10px 40px;
+}
+
+.dropdown-options a:hover {
+  color: #0a0a23;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+#dropdown-album-info {
+  display: block;
+  color: white;
+  padding: 8px 20px;
+  text-decoration: none;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.4);
+}
+
+#dropdown-album-info p {
+  display: flex;
+  justify-content: space-between; /* Espacement entre les éléments */
+  margin: 5px;
+}
+
+#dropdown-album-info strong {
+  text-align: left; /* Aligner le texte fort à gauche */
+  min-width: 150px; /* Largeur minimale pour s'assurer que tous les strongs ont la même largeur */
+}
+
+#dropdown-album-info span {
+  text-align: right; /* Aligner le texte à droite */
+}
+
+#grid-menu,
+#sort-menu {
+  display: block;
+  color: white;
+  text-decoration: none;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.4);
+}
+
+#grid-menu label,
+#sort-menu label {
+  display: flex;
+  justify-content: flex-start;
+  color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+  position: relative;
+  align-items: center;
+  cursor: pointer;
+}
+
+#grid-menu label:hover,
+#sort-menu label:hover {
+  color: #0a0a23;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+#grid-menu input[type="radio"],
+#sort-menu input[type="radio"] {
+  display: none; /* Masquer le bouton radio par défaut */
+}
+
+#grid-menu label .material-symbols-rounded,
+#sort-menu label .material-symbols-rounded {
+  margin-right: 10px;
+}
+
+#sort-menu label .radio-button {
+  font-size: 15px;
+  margin: auto 13px auto 4px;
+}
+
+#grid-menu {
+  border-bottom: none;
+}
+
+#grid-menu label .grid-icon {
+  position: absolute;
+  right: 0px;
+}
+
+.grid-options {
+  display: block;
+  position: absolute;
+  overflow: hidden;
+  background-color: var(--glassmorphism-color);
+  backdrop-filter: blur(10.6px);
+  -webkit-backdrop-filter: blur(10.6px);
+  border-radius: 5px;
+  bottom: 130%;
+  right: 0;
+  width: 250px;
+  transform-origin: bottom right; /* Set the origin for the scaling */
+  transform: scale(0); /* Start hidden (scale to 0) */
+  transition: transform 0.35s ease-in-out; /* Smooth transition */
+}
+
+.dropdown-options button {
+  display: block;
+  color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0);
+  padding: 10px 40px;
+  text-decoration: none;
+  width: 100%;
+  border: none;
+  text-align: left;
+  font-size: 15px;
+}
+
+.dropdown-options button:hover {
+  color: #0a0a23;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.dropdown-options button:active {
+  color: #0a0a23;
+  background-color: #e1e1e1;
+  border-radius: 5px;
+}

@@ -1,0 +1,30 @@
+#header {
+    position: fixed;
+    width: 100%;
+    background-color: var(--main-bg);
+    height: 10vh;
+    min-height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+  }
+  
+  #album-name {
+    text-decoration: none;
+    color: var(--main-color);
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    z-index: 1;
+    background-color: rgba(55, 57, 58, 0);
+    padding: 5px 20px 5px 10px;
+    font-weight: 900;
+    margin-left: 30px;
+    cursor: pointer;
+  }
+
+  #search-form {
+    position: absolute;
+    bottom: auto;
+    right: 30px;
+  }

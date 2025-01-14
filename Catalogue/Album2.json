@@ -1,0 +1,577 @@
+{
+    "name": "Album2",
+    "folder": null,
+    "dateRange": [
+        "2023-05-08T16:54:46",
+        "2023-05-08T19:51:22"
+    ],
+    "nVideo": 0,
+    "nImages": 40,
+    "mainImage": {
+        "name": "IMG_7936.jpg",
+        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7936.jpg&quality=20"
+    },
+    "album_path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2",
+    "medias": [
+        {
+            "name": "IMG_7941.jpg",
+            "date": "2023-05-08T19:51:22",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7941.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7941.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.498158333333336,
+                -73.56749722222222
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "30 Pl. du Canada, Montréal, QC H3B 4C9, Canada"
+        },
+        {
+            "name": "IMG_7940.jpg",
+            "date": "2023-05-08T19:51:20",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7940.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7940.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49814166666667,
+                -73.56748333333333
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "30 Pl. du Canada, Montréal, QC H3B 4C9, Canada"
+        },
+        {
+            "name": "IMG_7939.jpg",
+            "date": "2023-05-08T19:51:18",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7939.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7939.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49813888888889,
+                -73.56746666666666
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "30 Pl. du Canada, Montréal, QC H3B 4C9, Canada"
+        },
+        {
+            "name": "IMG_7938.jpg",
+            "date": "2023-05-08T19:51:16",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7938.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7938.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49816111111111,
+                -73.56746666666666
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "30 Pl. du Canada, Montréal, QC H3B 4C9, Canada"
+        },
+        {
+            "name": "IMG_7937.jpg",
+            "date": "2023-05-08T19:49:34",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7937.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7937.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49891388888889,
+                -73.56901666666667
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "De la Cathédrale / René-Lévesque, Montréal, QC H3B 2V4, Canada"
+        },
+        {
+            "name": "IMG_7936.jpg",
+            "date": "2023-05-08T19:49:32",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7936.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7936.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49890833333333,
+                -73.56901666666667
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "De la Cathédrale / René-Lévesque, Montréal, QC H3B 2V4, Canada"
+        },
+        {
+            "name": "IMG_7935.jpg",
+            "date": "2023-05-08T19:49:30",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7935.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7935.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.498925,
+                -73.56906944444444
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "De la Cathédrale / René-Lévesque, Montréal, QC H3B 2V4, Canada"
+        },
+        {
+            "name": "IMG_7933.jpg",
+            "date": "2023-05-08T19:49:04",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7933.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7933.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499097222222225,
+                -73.56944166666666
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Cathédrale Marie-Reine-du-Monde, 1110 Rue Mansfield, Montréal, QC H3B 2Y3, Canada"
+        },
+        {
+            "name": "IMG_7934.jpg",
+            "date": "2023-05-08T19:49:04",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7934.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7934.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49908888888889,
+                -73.5694361111111
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Cathédrale Marie-Reine-du-Monde, 1110 Rue Mansfield, Montréal, QC H3B 2Y3, Canada"
+        },
+        {
+            "name": "IMG_7932.jpg",
+            "date": "2023-05-08T19:49:00",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7932.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7932.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499119444444446,
+                -73.56948888888888
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "2V4, 1071 Rue de la Cathédrale, Montreal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7931.jpg",
+            "date": "2023-05-08T19:48:58",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7931.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7931.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49913055555556,
+                -73.56951111111111
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "2V4, 1071 Rue de la Cathédrale, Montreal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7930.jpg",
+            "date": "2023-05-08T19:48:52",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7930.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7930.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49919444444445,
+                -73.56963333333333
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "2V4, 1071 Rue de la Cathédrale, Montreal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7928.jpg",
+            "date": "2023-05-08T19:48:50",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7928.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7928.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499205555555555,
+                -73.56964166666667
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "2V4, 1071 Rue de la Cathédrale, Montreal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7929.jpg",
+            "date": "2023-05-08T19:48:50",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7929.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7929.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499205555555555,
+                -73.56964166666667
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "2V4, 1071 Rue de la Cathédrale, Montreal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7927.jpg",
+            "date": "2023-05-08T19:48:24",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7927.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7927.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499472222222224,
+                -73.56983888888888
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Metcalfe / René-Lévesque, Montréal, QC H3G 0E1, Canada"
+        },
+        {
+            "name": "IMG_7926.jpg",
+            "date": "2023-05-08T19:48:16",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7926.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7926.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499472222222224,
+                -73.56983888888888
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Metcalfe / René-Lévesque, Montréal, QC H3G 0E1, Canada"
+        },
+        {
+            "name": "IMG_7925.jpg",
+            "date": "2023-05-08T19:48:10",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7925.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7925.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499472222222224,
+                -73.56984722222222
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Metcalfe / René-Lévesque, Montréal, QC H3G 0E1, Canada"
+        },
+        {
+            "name": "IMG_7924.jpg",
+            "date": "2023-05-08T19:48:08",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7924.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7924.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499472222222224,
+                -73.56984722222222
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Metcalfe / René-Lévesque, Montréal, QC H3G 0E1, Canada"
+        },
+        {
+            "name": "IMG_7923.jpg",
+            "date": "2023-05-08T19:48:06",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7923.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7923.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499472222222224,
+                -73.56984722222222
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Metcalfe / René-Lévesque, Montréal, QC H3G 0E1, Canada"
+        },
+        {
+            "name": "IMG_7922.jpg",
+            "date": "2023-05-08T19:47:58",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7922.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7922.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499472222222224,
+                -73.56985555555555
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Metcalfe / René-Lévesque, Montréal, QC H3G 0E1, Canada"
+        },
+        {
+            "name": "IMG_7921.jpg",
+            "date": "2023-05-08T19:46:20",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7921.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7921.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.50020277777778,
+                -73.57103055555555
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1155 Rue Metcalfe, Montréal, QC H3B 2V6, Canada"
+        },
+        {
+            "name": "IMG_7920.jpg",
+            "date": "2023-05-08T19:46:18",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7920.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7920.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.50021666666667,
+                -73.57106666666667
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1155 Rue Metcalfe, Montréal, QC H3B 2V6, Canada"
+        },
+        {
+            "name": "IMG_7919.jpg",
+            "date": "2023-05-08T19:46:10",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7919.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7919.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.50028611111111,
+                -73.57121388888889
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1227 Rue Metcalfe, Montréal, QC H3B 2V5, Canada"
+        },
+        {
+            "name": "IMG_7918.jpg",
+            "date": "2023-05-08T19:46:08",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7918.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7918.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.50028611111111,
+                -73.57121388888889
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1227 Rue Metcalfe, Montréal, QC H3B 2V5, Canada"
+        },
+        {
+            "name": "IMG_7917.jpg",
+            "date": "2023-05-08T19:46:04",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7917.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7917.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.500305555555556,
+                -73.57126666666666
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1227 Rue Metcalfe, Montréal, QC H3B 2V5, Canada"
+        },
+        {
+            "name": "IMG_7916.jpg",
+            "date": "2023-05-08T19:46:02",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7916.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7916.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.5003,
+                -73.57128888888889
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1227 Rue Metcalfe, Montréal, QC H3B 2V5, Canada"
+        },
+        {
+            "name": "IMG_7915.jpg",
+            "date": "2023-05-08T16:56:46",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7915.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7915.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49978611111111,
+                -73.57038055555554
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1105 Boul. René-Lévesque O, Montréal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7913.jpg",
+            "date": "2023-05-08T16:56:42",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7913.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7913.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49975833333333,
+                -73.57032777777778
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1105 Boul. René-Lévesque O, Montréal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7914.jpg",
+            "date": "2023-05-08T16:56:42",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7914.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7914.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499766666666666,
+                -73.57034166666666
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1105 Boul. René-Lévesque O, Montréal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7912.jpg",
+            "date": "2023-05-08T16:56:40",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7912.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7912.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499741666666665,
+                -73.57028888888888
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1105 Boul. René-Lévesque O, Montréal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7911.jpg",
+            "date": "2023-05-08T16:56:38",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7911.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7911.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49973333333333,
+                -73.57025833333333
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1105 Boul. René-Lévesque O, Montréal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7910.jpg",
+            "date": "2023-05-08T16:56:34",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7910.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7910.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49970555555556,
+                -73.57019166666666
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1105 Boul. René-Lévesque O, Montréal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7909.jpg",
+            "date": "2023-05-08T16:56:24",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7909.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7909.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49962222222222,
+                -73.57003055555555
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "Metcalfe / René-Lévesque, Montréal, QC H3G 0E1, Canada"
+        },
+        {
+            "name": "IMG_7908.jpg",
+            "date": "2023-05-08T16:55:42",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7908.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7908.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49910277777778,
+                -73.57015277777778
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1085 Boul. René-Lévesque O, Montréal, QC H3B 2K4, Canada"
+        },
+        {
+            "name": "IMG_7907.jpg",
+            "date": "2023-05-08T16:55:40",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7907.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7907.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499097222222225,
+                -73.57016666666667
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "1085 Boul. René-Lévesque O, Montréal, QC H3B 2K4, Canada"
+        },
+        {
+            "name": "IMG_7906.jpg",
+            "date": "2023-05-08T16:55:36",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7906.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7906.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.499066666666664,
+                -73.57021388888889
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "René-Lévesque / Peel, Montréal, QC H3G 1T7, Canada"
+        },
+        {
+            "name": "IMG_7904.jpg",
+            "date": "2023-05-08T16:55:32",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7904.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7904.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49901666666667,
+                -73.57026666666667
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "René-Lévesque / Peel, Montréal, QC H3G 1T7, Canada"
+        },
+        {
+            "name": "IMG_7902.jpg",
+            "date": "2023-05-08T16:55:30",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7902.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7902.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.49897777777778,
+                -73.57031388888889
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "René-Lévesque / Peel, Montréal, QC H3G 1T7, Canada"
+        },
+        {
+            "name": "IMG_7901.jpg",
+            "date": "2023-05-08T16:54:48",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7901.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7901.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.498802777777776,
+                -73.5701
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "8047 Rue Peel, Montréal, QC H3B 4K9, Canada"
+        },
+        {
+            "name": "IMG_7900.jpg",
+            "date": "2023-05-08T16:54:46",
+            "album": "Album2",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2\\IMG_7900.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album2&filename=IMG_7900.jpg",
+            "type": "image",
+            "GPS_Coordinates": [
+                45.498805555555556,
+                -73.5701
+            ],
+            "device": "iPhone 14 Pro",
+            "address": "8047 Rue Peel, Montréal, QC H3B 4K9, Canada"
+        }
+    ]
+}

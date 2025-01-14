@@ -1,0 +1,194 @@
+{
+    "name": "Album1",
+    "folder": null,
+    "dateRange": [
+        "2025-01-14T17:16:24.529521",
+        "2025-01-14T17:21:51.597720"
+    ],
+    "nVideo": 5,
+    "nImages": 12,
+    "mainImage": {
+        "name": "pexels-sanat-anghan-25736600-28435500.jpg",
+        "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-sanat-anghan-25736600-28435500.jpg&quality=20"
+    },
+    "album_path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1",
+    "medias": [
+        {
+            "name": "12855669_720_1280_48fps.mp4",
+            "date": "2025-01-14T17:21:51.597720",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\12855669_720_1280_48fps.mp4",
+            "URL": "/serve-video?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12855669_720_1280_48fps.mp4",
+            "previewURL": "/serve-preview?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12855669_720_1280_48fps.mp4",
+            "type": "video"
+        },
+        {
+            "name": "12897475_1280_720_30fps.mp4",
+            "date": "2025-01-14T17:21:32.743292",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\12897475_1280_720_30fps.mp4",
+            "URL": "/serve-video?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12897475_1280_720_30fps.mp4",
+            "previewURL": "/serve-preview?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12897475_1280_720_30fps.mp4",
+            "type": "video"
+        },
+        {
+            "name": "12929113_720_1280_48fps.mp4",
+            "date": "2025-01-14T17:21:20.059700",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\12929113_720_1280_48fps.mp4",
+            "URL": "/serve-video?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12929113_720_1280_48fps.mp4",
+            "previewURL": "/serve-preview?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12929113_720_1280_48fps.mp4",
+            "type": "video"
+        },
+        {
+            "name": "pexels-stijn-dijkstra-1306815-29988886.jpg",
+            "date": "2025-01-14T17:21:01.183772",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-stijn-dijkstra-1306815-29988886.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-stijn-dijkstra-1306815-29988886.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-victoria-linnen-1453669284-26731314.jpg",
+            "date": "2025-01-14T17:20:50.767817",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-victoria-linnen-1453669284-26731314.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-victoria-linnen-1453669284-26731314.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-sanat-anghan-25736600-28435500.jpg",
+            "date": "2025-01-14T17:20:41.085208",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-sanat-anghan-25736600-28435500.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-sanat-anghan-25736600-28435500.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-lokmansevim-18036690.jpg",
+            "date": "2025-01-14T17:20:12.937774",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-lokmansevim-18036690.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-lokmansevim-18036690.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-ahmetyuksek-29813739.jpg",
+            "date": "2025-01-14T17:19:58.159719",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-ahmetyuksek-29813739.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-ahmetyuksek-29813739.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-filip-kvasnak-2147757883-30083712.jpg",
+            "date": "2025-01-14T17:19:45.970500",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-filip-kvasnak-2147757883-30083712.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-filip-kvasnak-2147757883-30083712.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "12932485_1280_720_30fps.mp4",
+            "date": "2025-01-14T17:19:31.160007",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\12932485_1280_720_30fps.mp4",
+            "URL": "/serve-video?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12932485_1280_720_30fps.mp4",
+            "previewURL": "/serve-preview?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12932485_1280_720_30fps.mp4",
+            "type": "video"
+        },
+        {
+            "name": "pexels-kate-strilchuk-154786467-29142261.jpg",
+            "date": "2025-01-14T17:19:10.842904",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-kate-strilchuk-154786467-29142261.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-kate-strilchuk-154786467-29142261.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-arturo-martinez-862341998-29809049.jpg",
+            "date": "2025-01-14T17:19:01.658536",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-arturo-martinez-862341998-29809049.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-arturo-martinez-862341998-29809049.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-zeynep-sahin-363019162-30158619.jpg",
+            "date": "2025-01-14T17:18:21.648458",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-zeynep-sahin-363019162-30158619.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-zeynep-sahin-363019162-30158619.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-anete-lusina-18650170.jpg",
+            "date": "2025-01-14T17:17:32.617358",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-anete-lusina-18650170.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-anete-lusina-18650170.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-biekir-2148554792-30165831.jpg",
+            "date": "2025-01-14T17:17:08.638780",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-biekir-2148554792-30165831.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-biekir-2148554792-30165831.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "pexels-kovyrina-30135169.jpg",
+            "date": "2025-01-14T17:16:54.857882",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\pexels-kovyrina-30135169.jpg",
+            "URL": "/serve-image?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=pexels-kovyrina-30135169.jpg",
+            "type": "image",
+            "GPS_Coordinates": null,
+            "device": null,
+            "address": null
+        },
+        {
+            "name": "12924536_360_640_24fps.mp4",
+            "date": "2025-01-14T17:16:24.529521",
+            "album": "Album1",
+            "path": "E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1\\12924536_360_640_24fps.mp4",
+            "URL": "/serve-video?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12924536_360_640_24fps.mp4",
+            "previewURL": "/serve-preview?folder=E:\\SH-EC_Desktop\\G_Drive\\G_Drive_Desktop\\Drive\\Perso\\Demo-1\\DemoGalery\\Album1&filename=12924536_360_640_24fps.mp4",
+            "type": "video"
+        }
+    ]
+}

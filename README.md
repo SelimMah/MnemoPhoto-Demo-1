@@ -3,6 +3,44 @@
 Ce projet est une application web conçue pour gérer des albums multimédias (images et vidéos) de manière intuitive et interactive. Il fournit une interface utilisateur riche et des fonctionnalités avancées pour la navigation, le tri et la visualisation de contenus multimédias.
 
 ---
+## Technologies Utilisées 💻
+
+Le projet repose sur une combinaison de technologies modernes pour offrir une expérience utilisateur fluide et performante :
+
+### **Frontend**
+- **HTML5** : Structure des pages et sémantique.
+- **CSS3** : Mise en page et styles, avec support pour les animations et transitions.
+- **JavaScript (ES6+)** :
+  - Gestion des interactions utilisateur.
+  - Dynamisme des pages grâce à l'utilisation de classes et de méthodes modernes.
+  - Gestion des événements (clics, défilement, survol, etc.).
+
+### **Backend**
+- **Flask** :
+  - Framework léger en Python pour gérer les API et les routes backend.
+  - Communication avec le frontend via des requêtes HTTP (GET, POST, PATCH).
+- **Flask-CORS** : Pour gérer les problèmes de partage de ressources entre le frontend et le backend.
+- **MoviePy** : Gestion des vidéos, extraction de métadonnées et conversion.
+- **Pillow** : Traitement des images, génération de miniatures et manipulation des métadonnées.
+
+### **Stockage et Persistance**
+- **SessionStorage (JavaScript)** :
+  - Conservation des états utilisateurs entre les pages (ex. : album en cours, tri sélectionné).
+  - Sauvegarde des données de navigation pour une expérience utilisateur fluide.
+
+### **Performances et Optimisation**
+- **Lazy Loading** :
+  - Chargement progressif des images et vidéos grâce à l'API IntersectionObserver.
+  - Réduction des temps de chargement et amélioration des performances sur les appareils mobiles.
+- **Responsive Design** :
+  - Adaptation automatique de la qualité des médias en fonction de la taille de l'écran et de la densité des pixels (DPR).
+- **Carrousels et animations fluides** :
+  - Navigation intuitive et visuellement agréable grâce à des transitions CSS et JavaScript.
+
+### **Gestion des médias**
+- Tri, filtrage et navigation :
+  - Tri chronologique (croissant/décroissant) des médias.
+  - Filtres pour afficher uniquement les photos ou vidéos.
 
 ## Fonctionnalités 🛠️
 
@@ -113,11 +151,11 @@ Ce projet est une application web conçue pour gérer des albums multimédias (i
   </tr>
   <tr>
     <td>
-      <img src="ReadMeCapture/BrowserPage-Default.png" 
+      <img src="ReadMeCapture/BrowserPage-Player.png" 
            alt="Capture d'écran de la page d'accueil" 
            title="Page d'accueil" 
            style="max-width: 100%; height: auto;">
-      <p><em>Le Footer de l'<strong>AlbumPage</strong> regroupe plusieurs fonctionnalités. Le sélecteur permet de choisir entre l'affichage exclusif des photos, des vidéos, ou des deux types de médias combinés (option "Album"). Passer la souris sur le bouton situé à gauche fait apparaître un menu détaillé contenant des informations sur l'album, ainsi que deux boutons permettant de sélectionner le mode de tri des médias.</em></p>
+      <p><em>Un lecteur vidéo personnalisé permet d'interagir avec les vidéos de manière intuitive. Il offre des fonctionnalités telles que le défilement dans la vidéo, le réglage ou la coupure du volume, et le passage en plein écran. Vous pouvez également mettre la vidéo en lecture ou en pause en cliquant directement dessus ou en appuyant sur la barre d'espace.</em></p>
     </td>
   </tr>
 </table>
@@ -131,16 +169,10 @@ Pour exécuter correctement le backend de ce projet, installez les dépendances 
 
 ```bash
 pip install flask
-pip install flask-cors
-pip install pillow
-pip install moviepy
-pip install numpy
+pip install opencv-python
+pip install Pillow
 pip install requests
 pip install geopy
-pip3 install opencv-python
 ```
-
-## Dépendances Python (pip) 📦
-
 
 
